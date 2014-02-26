@@ -1,0 +1,4 @@
+kanda
+=====
+
+goto very
